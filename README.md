@@ -35,19 +35,6 @@ Manage your money, protect your lives, and survive as long as possible!
 
 ---
 
-## 🧠 Run Locally
-
-```bash
-git clone https://github.com/your-username/tower-defense-game.git
-cd tower-defense-game
-npm install
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
 ## 💡 Future Enhancements
 
 - Add animated projectiles and explosions  
@@ -56,8 +43,3 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 - Enemy waves and difficulty scaling  
 - Tailwind UI with dynamic colors and shadows  
 
----
-
-## 👨‍💻 Author
-
-Built with ❤️ and ⚔️ using **React**
